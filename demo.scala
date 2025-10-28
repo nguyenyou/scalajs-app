@@ -4,6 +4,8 @@
 //> using dep "org.scala-js::scalajs-dom::2.8.1"
 //> using dep "com.raquo::laminar::17.2.1"
 
+//> using jsModuleKind es
+
 import org.scalajs.dom
 
 import com.raquo.laminar.api.L.*

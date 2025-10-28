@@ -1,4 +1,3 @@
-(function(){
 'use strict';
 var $fileLevelThis = this;
 var $getOwnPropertyDescriptors = (Object.getOwnPropertyDescriptors || (() => {
@@ -10807,4 +10806,3 @@ var $d_sjs_js_WrappedArray = new $TypeData().initClass($c_sjs_js_WrappedArray, "
 $L0 = new $c_RTLong(0, 0);
 $d_J.zero = $L0;
 $s_Lrun__main__AT__V(new ($d_T.getArrayOf().constr)([]));
-}).call(this);
